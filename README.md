@@ -3,9 +3,9 @@
 &nbsp; Script sitemizde bulunan <b>Sunucuya Mesaj Gönderme, Script Startlama, Script Stoplama</b>gibi işlevleri çalıştırabilmek için 
 
 
-**acl.xml**'i düzenlemeniz gereklidir.Script'i indirdikten sonra <a href="https://github.com/tarikcanmr/wwmta-yonetim/blob/master/README.md#aclden-adminlik-nas%C4%B1l-verilir"> ACL üzerinden scripte adminlik</a> vermeniz gerekmektedir.
+_**acl.xml**_'i düzenlemeniz gereklidir.Script'i indirdikten sonra <a href="https://github.com/tarikcanmr/wwmta-yonetim/blob/master/README.md#aclden-adminlik-nas%C4%B1l-verilir"> ACL üzerinden scripte adminlik</a> vermeniz gerekmektedir.
 
-Daha sonrasında Script'in içindeki _**ayarlar.lua**_ dosyasını açıp websitemize giriş yaparken kullandığınız <a href="https://github.com/tarikcanmr/wwmta-yonetim/new/master?readme=1#ayarlarlua-nas%C4%B1l-d%C3%BCzenlenir"> _kullanıcı adı_ ve _şifrenizi_ ayarlar.lua dosyasına</a> girin.
+Daha sonrasında Script'in içindeki _**ayarlar.lua**_ dosyasını açıp websitemize giriş yaparken kullandığınız <a href="https://github.com/tarikcanmr/wwmta-yonetim/blob/master/README.md#ayarlarlua-nas%C4%B1l-d%C3%BCzenlenir"> _kullanıcı adı_ ve _şifrenizi_ ayarlar.lua dosyasına</a> girin.
 
 
 <h6>ACL'den adminlik nasıl verilir?</h6>
