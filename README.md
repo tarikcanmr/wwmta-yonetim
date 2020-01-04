@@ -1,4 +1,4 @@
-# WildWorld MTA
+# **WildWorld MTA**
 <h3>wwmta-yonetim scripti ne işe yarar?</h3>
 &nbsp; Script sitemizde bulunan <b>Sunucuya Mesaj Gönderme, Script Startlama, Script Stoplama</b>gibi işlevleri çalıştırabilmek için 
 
