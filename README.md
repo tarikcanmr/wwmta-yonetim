@@ -30,4 +30,4 @@ hesaplar = {
 }
 ```
 
-copyright 2020 wildworldmta script version: v0.10
+*© 2020 wildworldmta script version: v0.10*
